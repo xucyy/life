@@ -15,6 +15,6 @@ public class TestController {
 
     @RequestMapping("/test")
     public String test(){
-        return "成功11";
+        return "成功1122";
     }
 }
